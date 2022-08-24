@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.78",
-    "buildNumber": 78,
+    "appVersion": "0.0.79",
+    "buildNumber": 79,
     "runtimeUrl": "https://mfd-proxy-dev.baintools.com/"
 }
