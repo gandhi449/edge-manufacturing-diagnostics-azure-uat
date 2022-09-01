@@ -94,8 +94,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "manufacturingdiagnostictest",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.84",
-    "buildNumber": 84,
+    "appVersion": "0.0.86",
+    "buildNumber": 86,
     "runtimeUrl": "https://mfd-proxy-dev.baintools.com/"
 }
