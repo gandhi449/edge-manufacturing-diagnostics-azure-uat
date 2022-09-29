@@ -1,10 +1,10 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.bain.manufacturingdiagnosticazureprod",
-    "appName": "Manufacturing Diagnostics Azure PROD",
+    "appIdentifier": "com.bain.manufacturingdiagnostic.test",
+    "appName": "Manufacturing Diagnostics Azure UAT",
     "bundleName": {
-        "main": "mfdazureprod",
-        "dev": "mfdazureprodDev"
+        "main": "mfdazureuat",
+        "dev": "mfdazureuatDev"
     },
     "deviceTarget": {
         "phone": false,
@@ -94,7 +94,7 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "manufacturingdiagnosticazureprod",
+            "value": "manufacturingdiagnostictest",
             "enabled": true,
             "android": {
                 "webLinks": [
@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.310",
-    "buildNumber": 310,
-    "runtimeUrl": "https://mfd-proxy-prod.baintools.com/"
+    "appVersion": "0.0.90",
+    "buildNumber": 90,
+    "runtimeUrl": "https://mfd-proxy-dev.baintools.com/"
 }
